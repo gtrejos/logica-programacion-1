@@ -1,0 +1,5 @@
+Crear un programa en Javascript que realice lo siguiente:
+Prueba tu programa con las siguientes entradas para asegurarte que funcione correctamente:
+Pruébalo con las combinaciones de números que se te ocurran.
+Al final de tu práctica, tienes que subir el ejercicio a tu repositorio de GitHub.
+Colócalo en un repositorio llamado “logica-programacion-1”
